@@ -70,7 +70,7 @@
 #### A 站
 + aiwlan : http://hp.aiwlan.net/79iw.php?vid=1238251&t=ykyun&w=100%&h=94%
 
-#### 失效黑色单
+#### 接口失效黑色单
 + jiexi.71ki.com
 + wyccoo.cn
 + avziliao

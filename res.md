@@ -28,11 +28,4 @@
 
 ## 编程教程
 + runoob: http://www.runoob.com/
-+ Html5动画 : http://techbrood.com/
-+ html5up : https://html5up.net/
-
-## 所谓的神站系列
-+ 大软坊：http://app.hustonline.net/major
-+ 香当网：http://www.xiangdang.net/
-+ Smallpdf：http://smallpdf.com/
-+ MSDN：http://www.itellyou.cn/
++ w3school: http://w3school.com.cn/
