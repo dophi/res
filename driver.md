@@ -28,14 +28,21 @@
 
 
 #### 通用接口
++ wmxz: http://www.wmxz.wang/video.php?url=http://www.mgtv.com/v/1/303260/f/3665598.html (`高清`)
+`其他域名http://100000001.top(1-10):支持域名绑定A记录解析到47.89.49.245`
++ aikantv: http://jx.aikantv.cc/index.php?url=http://www.mgtv.com/v/3/8849/f/307467.html (`高清`)
++ moondown: http://moon.moondown.net/tong.php?url=http://www.mgtv.com/v/3/8849/f/307467.html
+`测试页面：http://moon.moondown.net/moon.php可以实时查看哪些接口失效`
 + 000o: http://000o.cc/jx/ty.php?url=http://www.mgtv.com/v/1/298442/f/3640929.html
 + 九澧影院:http://dy.jiuli8.com/jiuli8/?url=
 + 紫狐:http://yun.zihu.tv/play.html?url=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html
 + wbg3721:http://api.wbg3721.club/?url=http://www.iqiyi.com/v_19rrm2pgd4.html?fc=8b62d5327a54411b#vfrm=19-9-0-1
 + mp4la : http://api.mp4la.net/?url=http://v.youku.com/v_show/id_XMTc3NjUxMDU2MA==.html?spm=a2h03.8164468.2069780.11
++ 990969_1: http://www.990969.top/jiu/vip1.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
++ 990969_2: http://www.990969.top/jiu/vip2.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
++ 990969_3: http://www.990969.top/jiu/vip3.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
 
 #### 芒果tv
-
 + 47ks: http://v.47ks.com/v2/videoplayer/api.html?u=http://www.mgtv.com/v/3/293930/f/3623801.html
 + mmhhw: http://api.mmhhw.cn/huan6/mgtv.php?vid=3665598
 + 1314yq: http://api.1314yq.com/mgtv.php?url=http://www.mgtv.com/v/1/303260/f/3665598.html
@@ -59,7 +66,6 @@
 + yydy8: http://www.yydy8.com/Common/?url=http://www.iqiyi.com/v_19rr9nt2p8.html
 + mt2t: http://yun.mt2t.com/yun?url=http://www.iqiyi.com/v_19rr9nt2p8.html
 + 97zxkan: http://www.97zxkan.com/jiexi/97zxkanapi.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
-+ wmxz: http://www.wmxz.wang/video.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
 + 20000817: http://sp.20000817.pw/?url=http://www.iqiyi.com/v_19rrm2t3x0.html
 + wanwantv: http://vip.wanwantv.com/yunparse/?url=http://www.iqiyi.com/v_19rrlzki4s.html
 
@@ -69,6 +75,9 @@
 
 #### A 站
 + aiwlan : http://hp.aiwlan.net/79iw.php?vid=1238251&t=ykyun&w=100%&h=94%
+
+#### 2mm
++ moondown:http://moon.moondown.net/2mm.php?url=http://www.2ni.la/sy147
 
 #### 接口失效黑色单
 + jiexi.71ki.com
