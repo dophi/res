@@ -34,6 +34,7 @@
 + moondown: http://moon.moondown.net/tong.php?url=http://www.mgtv.com/v/3/8849/f/307467.html
 `测试页面：http://moon.moondown.net/moon.php可以实时查看哪些接口失效`
 + 000o: http://000o.cc/jx/ty.php?url=http://www.mgtv.com/v/1/298442/f/3640929.html
++ yydy8: http://www.yydy8.com/Common/?url=http://www.mgtv.com/v/1/303260/f/3665598.html(`高清`)
 + 九澧影院:http://dy.jiuli8.com/jiuli8/?url=
 + 紫狐:http://yun.zihu.tv/play.html?url=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html
 + wbg3721:http://api.wbg3721.club/?url=http://www.iqiyi.com/v_19rrm2pgd4.html?fc=8b62d5327a54411b#vfrm=19-9-0-1
@@ -46,6 +47,7 @@
 + 47ks: http://v.47ks.com/v2/videoplayer/api.html?u=http://www.mgtv.com/v/3/293930/f/3623801.html
 + mmhhw: http://api.mmhhw.cn/huan6/mgtv.php?vid=3665598
 + 1314yq: http://api.1314yq.com/mgtv.php?url=http://www.mgtv.com/v/1/303260/f/3665598.html
++ 52jizhi: http://52jizhi.cn/6/vip1.php?url=http://www.mgtv.com/v/1/303260/f/3665598.html
 
 #### 优酷
 + 200919 :  http://www.200919.com/tv/v.php?url=http://v.youku.com/v_show/id_XMTc3NjUxMDU2MA==.html?spm=a2h03.8164468.2069780.11
