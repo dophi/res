@@ -1,7 +1,11 @@
 # 老司机
 
 
-### youtube下载
+## 磁力
++ 磁力播播: http://cilibobo.cc/
++ 九秒在线: http://apiv.ga/magnet/
+
+## youtube下载
 + yout: https://yout.com/
 + savefrom: http://en.savefrom.net/
 + savemedia: https://savemedia.com/en/
@@ -35,6 +39,7 @@
 `测试页面：http://moon.moondown.net/moon.php可以实时查看哪些接口失效`
 + 000o: http://000o.cc/jx/ty.php?url=http://www.mgtv.com/v/1/298442/f/3640929.html
 + yydy8: http://www.yydy8.com/Common/?url=http://www.mgtv.com/v/1/303260/f/3665598.html(`高清`)
++ ckparse: http://www.ckparse.com/ckparse/?url=http://www.mgtv.com/v/1/303260/f/3665598.html(`高清`)
 + 九澧影院:http://dy.jiuli8.com/jiuli8/?url=
 + 紫狐:http://yun.zihu.tv/play.html?url=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html
 + wbg3721:http://api.wbg3721.club/?url=http://www.iqiyi.com/v_19rrm2pgd4.html?fc=8b62d5327a54411b#vfrm=19-9-0-1
@@ -70,6 +75,7 @@
 + 97zxkan: http://www.97zxkan.com/jiexi/97zxkanapi.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
 + 20000817: http://sp.20000817.pw/?url=http://www.iqiyi.com/v_19rrm2t3x0.html
 + wanwantv: http://vip.wanwantv.com/yunparse/?url=http://www.iqiyi.com/v_19rrlzki4s.html
++ qtzr: http://qtzr.net/s/?qt=http://www.iqiyi.com/v_19rr9nt2p8.html
 
 
 #### 乐视
@@ -111,3 +117,11 @@
 ## 资讯
 + 免费吧: http://www.mianfeib.com/
 + 福利吧: http://fuliba.net/
++ nanrenfuli: http://www.nanrenfuli.com
++ 番号村: http://www.fanhaocun.com/
++ 宅男福利社: http://www.zhainanfulishe.net/
++ avbaike: http://www.avbaike.net
++ leglegs: http://www.leglegs.com/
++ sexvid: http://sexvid.cc/
++ fuzokuav: http://fuzokuav.com/main.html
++ 和邪社: http://www.hexieshe.com/

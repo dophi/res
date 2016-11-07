@@ -1,5 +1,8 @@
 # 电影
 
+## 电视直播
++ 直播吧: http://www.zhiboo.net/
++ 江苏卫视: http://live.jstv.com/
 
 ## 高清电影资源网站
 + 高清控联盟：http://www.gaoqingkong.com/

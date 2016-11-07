@@ -22,3 +22,5 @@
 + btkitty:  http://btkitty.bid/
 + btdao:  http://www.btdao.biz/
 + rarbg:  https://rarbg.to/torrents.php/
++ btavmo:  http://www.btavmo.com/
++ coretorrents:  http://coretorrents.com/
