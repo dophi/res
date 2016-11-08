@@ -4,7 +4,8 @@
 + 直播吧: http://www.zhiboo.net/
 + 江苏卫视: http://live.jstv.com/
 
-## 高清电影资源网站
+## 电影资源网站
++ 云影院：http://www.yunyy.cc/
 + 高清控联盟：http://www.gaoqingkong.com/
 + 中国高清网：http://gaoqing.la/
 + 小无相：http://movtop.cn/

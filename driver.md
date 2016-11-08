@@ -47,6 +47,7 @@
 + 990969_1: http://www.990969.top/jiu/vip1.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
 + 990969_2: http://www.990969.top/jiu/vip2.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
 + 990969_3: http://www.990969.top/jiu/vip3.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
++ sdyhy:http://www.sdyhy.cn/
 
 #### 芒果tv
 + 47ks: http://v.47ks.com/v2/videoplayer/api.html?u=http://www.mgtv.com/v/3/293930/f/3623801.html
@@ -125,3 +126,4 @@
 + sexvid: http://sexvid.cc/
 + fuzokuav: http://fuzokuav.com/main.html
 + 和邪社: http://www.hexieshe.com/
++ magazinesdownload: http://magazinesdownload.org/

@@ -25,6 +25,10 @@
 + 1024tools:https://1024tools.com/
 + oschina:http://tool.oschina.net/
 
+## 解密
++ php在线解密: http://dezend.qiling.org/
++ md5解密: http://cmd5.com/
+
 + 国家代码查询 : https://countrycode.org/
 
 ## 在线Markdwon
