@@ -24,3 +24,4 @@
 + rarbg:  https://rarbg.to/torrents.php/
 + btavmo:  http://www.btavmo.com/
 + coretorrents:  http://coretorrents.com/
++ mytorrents:  http://mytorrents.org/

@@ -4,7 +4,10 @@
 + 直播吧: http://www.zhiboo.net/
 + 江苏卫视: http://live.jstv.com/
 
+
+
 ## 电影资源网站
++ PVideos-97:http://www.id97.com/
 + 云影院：http://www.yunyy.cc/
 + 高清控联盟：http://www.gaoqingkong.com/
 + 中国高清网：http://gaoqing.la/
@@ -28,7 +31,6 @@
 + 破烂熊乐园:http://www.ragbear.com/
 + 謦灵风软美剧论坛:http://1000fr.net/
 + 66kk:http://www.66kk.com/meiju/
-+ PVideos-97:http://www.id97.com/
 + 豆瓣皮:http://movie.doubanpi.com/
 + 豆瓣X:http://www.doubanx.com/
 + 特片:http://www.tepian.com/
@@ -53,6 +55,8 @@
 + 腾讯记录片频道：http://v.qq.com/doco/
 + 央视记录片：http://jishi.cntv.cn/vod/keji/index.shtml
 
+### 国外
++ iitv : http://iitv.pl/
 
 ## 专业影评类网站
 + 时光网: http://www.mtime.com/community/

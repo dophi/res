@@ -127,3 +127,5 @@
 + fuzokuav: http://fuzokuav.com/main.html
 + 和邪社: http://www.hexieshe.com/
 + magazinesdownload: http://magazinesdownload.org/
++ vr: https://www.alicex.com/
++ 绝对领域 : http://www.jdlingyu.moe/
